@@ -1,4 +1,4 @@
-##Atalhos markdown##	
+# Atalhos markdown
 
 - <u>ctrl+u = subscrito</u>
 - *ctrl+i = italico*
